@@ -8,6 +8,8 @@
  * Academic Misconduct.
  **/
 
+// https://github.com/jmk9720/CS_3113_Assignment_1.git
+
 #define GL_SILENCE_DEPRECATION
 #define STB_IMAGE_IMPLEMENTATION
 
